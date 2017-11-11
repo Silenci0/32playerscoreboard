@@ -6,7 +6,7 @@ This is a very, very simple mod for the scoreboard and nothing else. Instead of 
 ------------------
 How to Install
 ------------------
-- Download these files as a zip file to some place easily accessible to you (your Desktop, for example).
+- Download this project as a zip file to some place easily accessible to you (your Desktop, for example).
 - Unzip the files and you should see the folder named "32scoreboard". In it should be a "resource" folder and the "info.vdf" file.
 - Locate your TF2 custom directory (tf/custom) and copy the "32scoreboard" directory into it.
 - Start your game and play on a 32-player server or use the create your own server feature with 32 players, spawn bots, and hit Tab to confirm for working.
